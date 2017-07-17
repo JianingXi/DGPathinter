@@ -24,13 +24,13 @@ Input data descriptions
 We provide the input data files of TCGA somatic mutation data of three cancers from [cBioPortal](http://www.cbioportal.org/data_sets.jsp) [6] respectively.
 
         =================================================================================================
-        | CANCER NAME                      |FILE DIRECTORY                                              |
+        | CANCER NAME                  | Abbreviation |  FILE DIRECTORY                                 |
         =================================================================================================
-        |Breast invasive carcinoma (BRCA)  |`./Input_data/BRCA.mat`                                     |
+        |Breast invasive carcinoma     |    BRCA      |`./Input_data/BRCA.mat`                          |
         -------------------------------------------------------------------------------------------------
-        |Glioblastoma multiforme (GBM)     |`./Input_data/KIRC.mat`                                     |
+        |Glioblastoma multiforme       |     GBM      |`./Input_data/KIRC.mat`                          |
         -------------------------------------------------------------------------------------------------
-        |Thyroid carcinoma (THCA)          |`./Input_data/THCA.mat`                                     |
+        |Thyroid carcinoma             |     THCA     |`./Input_data/THCA.mat`                          |
         -------------------------------------------------------------------------------------------------
 
 run DGPathinter
@@ -76,8 +76,13 @@ The configurations of DGPathinter can be set as Struct variables `Gene2Path` and
         -------------------------------------------------------------------------------------------------
 
 [1] Ogata H, Goto S, Sato K, et al. KEGG: Kyoto encyclopedia of genes and genomes[J]. Nucleic acids research, 1999, 27(1): 29-34.
+
 [2] Schmidt E, Birney E, Croft D, et al. Reactome¨Ca knowledgebase of biological pathways[C]//OTM Confederated International Conferences" On the Move to Meaningful Internet Systems". Springer, Berlin, Heidelberg, 2006: 710-719.
+
 [3] Nishimura D. BioCarta[J]. Biotech Software & Internet Report: The Computer Software Journal for Scient, 2001, 2(3): 117-120.
+
 [4] Park S, Kim S J, Yu D, et al. An integrative somatic mutation analysis to identify pathways linked with survival outcomes across 19 cancer types[J]. Bioinformatics, 2015, 32(11): 1643-1651.
+
 [5] Razick S, Magklaras G, Donaldson I M. iRefIndex: a consolidated protein interaction database with provenance[J]. BMC bioinformatics, 2008, 9(1): 405.
+
 [6] Gao J, Aksoy B A, Dogrusoz U, et al. Integrative analysis of complex cancer genomics and clinical profiles using the cBioPortal[J]. Science signaling, 2013, 6(269): pl1.
