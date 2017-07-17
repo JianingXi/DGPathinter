@@ -26,7 +26,7 @@ We provide the input data files of TCGA somatic mutation data of three cancers f
         =================================================================================================
         | CANCER NAME                  | Abbreviation |  FILE DIRECTORY                                 |
         =================================================================================================
-        |Breast invasive carcinoma     |    BRCA      |`./Input_data/BRCA.mat`                          |
+        |Breast invasive carcinoma     |     BRCA     |`./Input_data/BRCA.mat`                          |
         -------------------------------------------------------------------------------------------------
         |Glioblastoma multiforme       |     GBM      |`./Input_data/KIRC.mat`                          |
         -------------------------------------------------------------------------------------------------
