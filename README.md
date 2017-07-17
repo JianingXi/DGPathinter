@@ -64,7 +64,7 @@ The configurations of DGPathinter can be set as Struct variables `Gene2Path` and
         =================================================================================================
         |Gene2Path.lambda_C    |The tuning parameter of prior knowledge from pathways.                  |
         -------------------------------------------------------------------------------------------------
-        |Gene2Path.lambda_V    |The tuning parameter of pathway score vectors.                          |
+        |Gene2Path.lambda_V    |The tuning parameter of regularization term of pathway score vectors.   |
         -------------------------------------------------------------------------------------------------
         |Net_Conf.lambda_L     |The tuning parameter of prior knowledge from interactome.               |
         -------------------------------------------------------------------------------------------------
