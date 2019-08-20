@@ -4,6 +4,9 @@ a novel model for identifying driver genes via knowledge-driven matrix factoriza
 
 Developer: Jianing Xi <xjn@mail.ustc.edu.cn> from Health Informatics Lab, School of Information Science and Technology, University of Science and Technology of China
 
+## Citation
+[Xi, J., Wang, M. and Li, A., 2017. DGPathinter: a novel model for identifying driver genes via knowledge-driven matrix factorization with prior knowledge from interactome and pathways. PeerJ Computer Science, 3, p.e133.](https://peerj.com/articles/cs-133/)
+
 ## Instructions to DGPathinter (version 1.0.0)
 
 Requirement
@@ -77,7 +80,7 @@ The configurations of DGPathinter can be set as Struct variables `Gene2Path` and
 
 [1] Ogata H, Goto S, Sato K, et al. KEGG: Kyoto encyclopedia of genes and genomes[J]. Nucleic acids research, 1999, 27(1): 29-34.
 
-[2] Schmidt E, Birney E, Croft D, et al. Reactome¨Ca knowledgebase of biological pathways[C]//OTM Confederated International Conferences" On the Move to Meaningful Internet Systems". Springer, Berlin, Heidelberg, 2006: 710-719.
+[2] Schmidt E, Birney E, Croft D, et al. ReactomeÂ¨Ca knowledgebase of biological pathways[C]//OTM Confederated International Conferences" On the Move to Meaningful Internet Systems". Springer, Berlin, Heidelberg, 2006: 710-719.
 
 [3] Nishimura D. BioCarta[J]. Biotech Software & Internet Report: The Computer Software Journal for Scient, 2001, 2(3): 117-120.
 
